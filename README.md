@@ -42,3 +42,6 @@ Watch the video demo of the project on YouTube:
 
 ## 📦 Folder Structure
 
+## 📣 Author
+
+Anton Babenko — Data Science & Analytics student @GoIT
