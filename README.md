@@ -38,7 +38,7 @@ Watch the video demo of the project on YouTube:
 
 ## 🔗 Dashboard Link
 
-👉 [View on Tableau Public]([https://public.tableau.com/app/profile/your_name/viz/your_dashboard_link](https://public.tableau.com/views/final_DA_17525341835200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
+👉 [View on Tableau Public](https://public.tableau.com/views/final_DA_17525341835200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ## 📦 Folder Structure
 
