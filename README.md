@@ -44,4 +44,4 @@ Watch the video demo of the project on YouTube:
 
 ## 📣 Author
 
-Anton Babenko — Data Science & Analytics student @GoIT
+Anton Babenko — Data Science & Analytics student IT School GoIT
