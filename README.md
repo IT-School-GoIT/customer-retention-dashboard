@@ -16,6 +16,19 @@ This project presents a dashboard created for analyzing user behavior and moneti
 - Customer Lifetime (LT)
 - Customer Lifetime Value (LTV)
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](screenshots/dashboard_view.png)
+
+## 🛠 SQL Query Preview
+
+![SQL Query Screenshot](screenshots/sql_query.png)
+
+## ▶️ Video Demonstration
+
+Watch the video demo of the project on YouTube:  
+👉 [https://youtu.be/gkC3pP_tc1w](https://youtu.be/gkC3pP_tc1w)
+
 ## 🛠 Technologies Used
 
 - **PostgreSQL** – SQL queries for data preparation  
@@ -25,7 +38,7 @@ This project presents a dashboard created for analyzing user behavior and moneti
 
 ## 🔗 Dashboard Link
 
-👉 [View on Tableau Public]([https://public.tableau.com/app/profile/your_name/viz/your_dashboard_link](https://public.tableau.com/views/final_DA_17525341835200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [View on Tableau Public]([https://public.tableau.com/app/profile/your_name/viz/your_dashboard_link](https://public.tableau.com/views/final_DA_17525341835200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
 
 ## 📦 Folder Structure
 
