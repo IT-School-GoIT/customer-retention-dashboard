@@ -1,20 +1,23 @@
-# Customer Retention Dashboard
+# E-commerce Funnel & Conversion Analysis Dashboard
 
-This project presents a dashboard created for analyzing user behavior and monetization metrics of a digital product. It includes SQL data preparation using PostgreSQL and a Tableau Public dashboard.
+This project presents an interactive dashboard built in **Tableau Public**, analyzing user behavior through the e-commerce funnel based on **Google Analytics 4 (GA4)** data. The SQL query was executed using **Google BigQuery**.
 
-## 📊 Key Metrics Covered
+## 🎯 Project Goals
 
-- Monthly Recurring Revenue (MRR)
-- Paid Users
-- Average Revenue Per Paid User (ARPPU)
-- New Paid Users
-- New MRR
-- Churned Users
-- Churn Rate
-- Churned Revenue
-- Revenue Churn Rate
-- Customer Lifetime (LT)
-- Customer Lifetime Value (LTV)
+- Track user drop-off through the e-commerce funnel
+- Identify conversion rates across regions, devices, OS, and languages
+- Segment traffic sources by campaign and medium
+- Visualize key behavioral insights geographically and categorically
+
+## 📊 Key Metrics Displayed
+
+- **Funnel Analysis** — from `session_start` to `purchase`
+- **Conversion Rate by Country** — global map view
+- **Conversion by Device Category** — mobile vs desktop vs tablet
+- **Conversion by Operating System**
+- **Conversion by Language**
+- **Campaign Source Breakdown** — via bubble chart
+
 
 ## 🖼️ Dashboard Preview
 
@@ -31,7 +34,7 @@ Watch the video demo of the project on YouTube:
 
 ## 🛠 Technologies Used
 
-- **PostgreSQL** – SQL queries for data preparation  
+- **Google BigQuery** – SQL querying of GA4 data  
 - **DBeaver** – SQL query execution  
 - **Tableau Public** – Data visualization  
 - **GitHub** – Version control and project showcase
@@ -41,6 +44,9 @@ Watch the video demo of the project on YouTube:
 👉 [View on Tableau Public](https://public.tableau.com/views/final_DA_17525341835200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ## 📦 Folder Structure
+
+<img width="205" height="184" alt="image" src="https://github.com/user-attachments/assets/623c3791-7a17-4998-9229-005704ac8453" />
+
 
 ## 📣 Author
 
